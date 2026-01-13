@@ -87,7 +87,8 @@ sql-exercise/
 ├── schemas/         (for .sql schema files)
 ├── datasets/        (for .csv files)
 ├── sessions/        (for session files like Daniels_Test.session.sql)
-├── exercises/        (your custom queries)
+├── exercises/        (older excersises)
+├── custom_queries/        (your custom queries)
 └── README.md
 ```
 
